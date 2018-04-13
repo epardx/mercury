@@ -4040,7 +4040,7 @@ Showdown.converter = function() {
   this.Mercury || (this.Mercury = {});
 
   jQuery.extend(this.Mercury, {
-    version: '0.9.0',
+    version: '0.9.1',
     Regions: Mercury.Regions || {},
     modalHandlers: Mercury.modalHandlers || {},
     lightviewHandlers: Mercury.lightviewHandlers || {},
